@@ -1,7 +1,7 @@
 import "./App.css";
-import { Button } from "react-bootstrap";
+
 import Card from './Card';
-import {useState} from 'react';
+
 
 function App() {
 
